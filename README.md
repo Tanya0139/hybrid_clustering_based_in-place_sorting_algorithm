@@ -69,12 +69,12 @@ The algorithm employs an interleaved mechanism where clustering and sorting occu
  <img src="images/Prog1.jpeg" alt="Image">
 </p> 
 
-<center><u>Program 2</u></center>
+<h3 align="center">Program 2</h3>
 <p align="center">
  <img src="images/Prog2.jpeg" alt="Image">
 </p> 
 
-<center><u>Program 3</u></center>
+<h3 align="center">Program 3</h3>
 <p align="center">
  <img src="images/Prog3.jpeg" alt="Image">
 </p> 
