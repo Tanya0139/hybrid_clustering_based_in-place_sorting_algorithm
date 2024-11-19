@@ -30,8 +30,10 @@ This project presents a novel approach to sorting algorithms using a **Hybrid Cl
 
 ## **Project Architecture**
 ### **Architecture Diagram**
-- Refer to **Fig 5.1** in your project document for the detailed architecture diagram of the proposed algorithm.
-- **Include Image**: [Architecture Diagram - Fig 5.1]
+<p align="center">
+ <img src="images/arch.jpeg" alt="Image">
+</p> 
+  
 
 ## **Methodology and In-Place Interleaved Mechanism**
 The methodology is divided into several phases, with a focus on maintaining in-place operations and using an interleaved clustering and sorting approach.
@@ -62,9 +64,11 @@ The algorithm employs an interleaved mechanism where clustering and sorting occu
 - **In-Place Merging**: The merging process involves iterating through each sorted cluster and placing elements in their correct order without using extra space.
 
 ## **Flowchart**
-- Refer to **Fig 4.1** for the detailed flowchart of the clustering and sorting process.
-- **Include Image**: [Flowchart - Fig 4.1]
-
+<p align="center">
+ <img src="images/prog1.jpeg" alt="Image">
+ <img src="images/prog2.jpeg" alt="Image">
+ <img src="images/prog3.jpeg" alt="Image">
+</p> 
 ## **Clustering and Sorting Algorithms Explained**
 ### **Cluster Sort (Comb)**
 - **Clustering Step**: Uses data locality principles to group elements with minimal comparisons.
