@@ -64,7 +64,7 @@ The algorithm employs an interleaved mechanism where clustering and sorting occu
 - **In-Place Merging**: The merging process involves iterating through each sorted cluster and placing elements in their correct order without using extra space.
 
 ## **Flowchart**
-<center><u>Program 1 </u></center>
+<center><u>Program 1</u></center>
 <p align="center">
  <img src="images/Prog1.jpeg" alt="Image">
 </p> 
@@ -74,7 +74,7 @@ The algorithm employs an interleaved mechanism where clustering and sorting occu
  <img src="images/Prog2.jpeg" alt="Image">
 </p> 
 
-<center><u>Program 3 </u></center>
+<center><u>Program 3</u></center>
 <p align="center">
  <img src="images/Prog3.jpeg" alt="Image">
 </p> 
