@@ -25,6 +25,7 @@ This project presents a novel approach to sorting algorithms using a **Hybrid Cl
   <img src="result/averaged_log_plot_sort_same_value.png" alt="Image">
   <img src="result/averaged_log_plot_sort_uniform.png" alt="Image">
   <img src="result/averaged_log_plot_sort_reverse_ordered.png" alt="Image">
+ <img src="result/result/averaged_log_plot_sort_Combinations_of_ascending_and_descending_two_sub_arrays.png" alt="Image">
 </p> 
 
 ## **Project Architecture**
