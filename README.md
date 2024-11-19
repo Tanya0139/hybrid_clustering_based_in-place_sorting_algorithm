@@ -1,4 +1,4 @@
-
+![Banner](media/banner.gif)
 # **Hybrid Clustering-Based In-Place Sorting Algorithm**
 ## **Project Title**
 **A Hybrid Clustering Based In-Place Sorting Algorithm: Performance Evaluation Against Quick Sort, Merge Sort, and Heap Sort**
@@ -16,6 +16,16 @@ This project presents a novel approach to sorting algorithms using a **Hybrid Cl
 - **Interleaved Mechanism**: Enhances efficiency by simultaneously clustering and sorting, preventing the need for additional data structures.
 - **Hybrid Approach**: Combines Comb Sort and Shell Sort for efficient intra-cluster sorting.
 - **Optimized for Data Patterns**: Effective on datasets with natural clustering, such as Gaussian or ordered data.
+
+## Gallery
+<p align="center">
+ <img src="result/averaged_log_plot_sort_gaussian.png" alt="Image">
+  <img src="result/averaged_log_plot_sort_ordered.png" alt="Image">
+  <img src="result/averaged_log_plot_sort_repeated_values.png" alt="Image">
+  <img src="result/averaged_log_plot_sort_same_value.png" alt="Image">
+  <img src="result/averaged_log_plot_sort_uniform.png" alt="Image">
+  <img src="result/averaged_log_plot_sort_reverse_ordered.png" alt="Image">
+</p> 
 
 ## **Project Architecture**
 ### **Architecture Diagram**
