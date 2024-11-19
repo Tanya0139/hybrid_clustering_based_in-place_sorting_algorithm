@@ -64,11 +64,22 @@ The algorithm employs an interleaved mechanism where clustering and sorting occu
 - **In-Place Merging**: The merging process involves iterating through each sorted cluster and placing elements in their correct order without using extra space.
 
 ## **Flowchart**
+### **Program 1**
 <p align="center">
  <img src="images/Prog1.jpeg" alt="Image">
+</p> 
+
+### **Program 2**
+<p align="center">
  <img src="images/Prog2.jpeg" alt="Image">
+</p> 
+
+### **Program 3**
+<p align="center">
  <img src="images/Prog3.jpeg" alt="Image">
 </p> 
+___
+
 ## **Clustering and Sorting Algorithms Explained**
 ### **Cluster Sort (Comb)**
 - **Clustering Step**: Uses data locality principles to group elements with minimal comparisons.
