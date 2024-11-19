@@ -124,5 +124,3 @@ ___
 4. Analyze results using `program3_analysis_visualization.py`.
 5. Output files and visualizations are stored in the `Results` folder.
 
-## **References**
-For additional details, refer to the project documentation, including scholarly references on sorting algorithms and clustering techniques.
