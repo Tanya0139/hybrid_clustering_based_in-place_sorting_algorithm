@@ -31,7 +31,7 @@ This project presents a novel approach to sorting algorithms using a **Hybrid Cl
 ## **Project Architecture**
 ### **Architecture Diagram**
 <p align="center">
- <img src="images/arch.jpeg" alt="Image">
+ <img src="images/Arch.jpeg" alt="Image">
 </p> 
   
 
@@ -65,9 +65,9 @@ The algorithm employs an interleaved mechanism where clustering and sorting occu
 
 ## **Flowchart**
 <p align="center">
- <img src="images/prog1.jpeg" alt="Image">
- <img src="images/prog2.jpeg" alt="Image">
- <img src="images/prog3.jpeg" alt="Image">
+ <img src="images/Prog1.jpeg" alt="Image">
+ <img src="images/Prog2.jpeg" alt="Image">
+ <img src="images/Prog3.jpeg" alt="Image">
 </p> 
 ## **Clustering and Sorting Algorithms Explained**
 ### **Cluster Sort (Comb)**
