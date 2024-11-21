@@ -1,5 +1,5 @@
 ![Banner](images/banner.png)
-# **Hybrid Clustering-Based In-Place Sorting Algorithm *(submitted to conference)***
+# **Hybrid Clustering-Based In-Place Sorting Algorithm *(Submitted to Conference)***
 **A Hybrid Clustering Based In-Place Sorting Algorithm: Performance Evaluation Against Quick Sort, Merge Sort, and Heap Sort**
 
 ## **Authors**
